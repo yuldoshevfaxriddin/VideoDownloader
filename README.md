@@ -1,2 +1,2 @@
-# uzmoviVideoDownloader
-uzmovi.com saytidan video yuklovchi
+# VideoDownloader
+https://example.com/video.mp4  ko'rinishidagi video yuklovchi
